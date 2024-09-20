@@ -1,0 +1,238 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Project Unity\\Coffee Pack\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5029EE24-3CF1-1ECD-43F6-24DBE47E07D9}|Assembly-CSharp.csproj|D:\\Project Unity\\Coffee Pack\\assets\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5029EE24-3CF1-1ECD-43F6-24DBE47E07D9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5029EE24-3CF1-1ECD-43F6-24DBE47E07D9}|Assembly-CSharp.csproj|D:\\Project Unity\\Coffee Pack\\assets\\scripts\\gridsytem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5029EE24-3CF1-1ECD-43F6-24DBE47E07D9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gridsytem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5029EE24-3CF1-1ECD-43F6-24DBE47E07D9}|Assembly-CSharp.csproj|d:\\project unity\\coffee pack\\assets\\scripts\\tray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5029EE24-3CF1-1ECD-43F6-24DBE47E07D9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5029EE24-3CF1-1ECD-43F6-24DBE47E07D9}|Assembly-CSharp.csproj|D:\\Project Unity\\Coffee Pack\\assets\\scripts\\objectivemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5029EE24-3CF1-1ECD-43F6-24DBE47E07D9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\objectivemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5029EE24-3CF1-1ECD-43F6-24DBE47E07D9}|Assembly-CSharp.csproj|D:\\Project Unity\\Coffee Pack\\assets\\scripts\\objective.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5029EE24-3CF1-1ECD-43F6-24DBE47E07D9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\objective.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5029EE24-3CF1-1ECD-43F6-24DBE47E07D9}|Assembly-CSharp.csproj|D:\\Project Unity\\Coffee Pack\\assets\\scripts\\boxcloser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5029EE24-3CF1-1ECD-43F6-24DBE47E07D9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\boxcloser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5029EE24-3CF1-1ECD-43F6-24DBE47E07D9}|Assembly-CSharp.csproj|D:\\Project Unity\\Coffee Pack\\assets\\scripts\\cupso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5029EE24-3CF1-1ECD-43F6-24DBE47E07D9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cupso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5029EE24-3CF1-1ECD-43F6-24DBE47E07D9}|Assembly-CSharp.csproj|D:\\Project Unity\\Coffee Pack\\assets\\scripts\\griditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5029EE24-3CF1-1ECD-43F6-24DBE47E07D9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\griditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5029EE24-3CF1-1ECD-43F6-24DBE47E07D9}|Assembly-CSharp.csproj|D:\\Project Unity\\Coffee Pack\\assets\\scripts\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5029EE24-3CF1-1ECD-43F6-24DBE47E07D9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5029EE24-3CF1-1ECD-43F6-24DBE47E07D9}|Assembly-CSharp.csproj|D:\\Project Unity\\Coffee Pack\\assets\\scripts\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5029EE24-3CF1-1ECD-43F6-24DBE47E07D9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5029EE24-3CF1-1ECD-43F6-24DBE47E07D9}|Assembly-CSharp.csproj|D:\\Project Unity\\Coffee Pack\\assets\\scripts\\cup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5029EE24-3CF1-1ECD-43F6-24DBE47E07D9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5029EE24-3CF1-1ECD-43F6-24DBE47E07D9}|Assembly-CSharp.csproj|D:\\Project Unity\\Coffee Pack\\assets\\scripts\\cuptype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5029EE24-3CF1-1ECD-43F6-24DBE47E07D9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cuptype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5029EE24-3CF1-1ECD-43F6-24DBE47E07D9}|Assembly-CSharp.csproj|D:\\Project Unity\\Coffee Pack\\assets\\scripts\\levelmakereditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5029EE24-3CF1-1ECD-43F6-24DBE47E07D9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\levelmakereditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "D:\\Project Unity\\Coffee Pack\\Assets\\Scripts\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UIManager.cs",
+              "ToolTip": "D:\\Project Unity\\Coffee Pack\\Assets\\Scripts\\UIManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UIManager.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowCwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T15:54:02.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BoxCloser.cs",
+              "DocumentMoniker": "D:\\Project Unity\\Coffee Pack\\Assets\\Scripts\\BoxCloser.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BoxCloser.cs",
+              "ToolTip": "D:\\Project Unity\\Coffee Pack\\Assets\\Scripts\\BoxCloser.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BoxCloser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T17:41:36.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CupSO.cs",
+              "DocumentMoniker": "D:\\Project Unity\\Coffee Pack\\Assets\\Scripts\\CupSO.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CupSO.cs",
+              "ToolTip": "D:\\Project Unity\\Coffee Pack\\Assets\\Scripts\\CupSO.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CupSO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T13:39:40.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GridSytem.cs",
+              "DocumentMoniker": "D:\\Project Unity\\Coffee Pack\\Assets\\Scripts\\GridSytem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GridSytem.cs",
+              "ToolTip": "D:\\Project Unity\\Coffee Pack\\Assets\\Scripts\\GridSytem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GridSytem.cs",
+              "ViewState": "AgIAALkAAAAAAAAAAAAQwNYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T13:31:54.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tray.cs",
+              "DocumentMoniker": "D:\\Project Unity\\Coffee Pack\\Assets\\Scripts\\Tray.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Tray.cs",
+              "ToolTip": "D:\\Project Unity\\Coffee Pack\\Assets\\Scripts\\Tray.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Tray.cs",
+              "ViewState": "AgIAANIBAAAAAAAAAAAMwOQBAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T07:37:51.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Objective.cs",
+              "DocumentMoniker": "D:\\Project Unity\\Coffee Pack\\Assets\\Scripts\\Objective.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Objective.cs",
+              "ToolTip": "D:\\Project Unity\\Coffee Pack\\Assets\\Scripts\\Objective.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Objective.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T13:14:54.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ObjectiveManager.cs",
+              "DocumentMoniker": "D:\\Project Unity\\Coffee Pack\\Assets\\Scripts\\ObjectiveManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ObjectiveManager.cs",
+              "ToolTip": "D:\\Project Unity\\Coffee Pack\\Assets\\Scripts\\ObjectiveManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ObjectiveManager.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAiwEoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T13:14:47.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CupType.cs",
+              "DocumentMoniker": "D:\\Project Unity\\Coffee Pack\\Assets\\Scripts\\CupType.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CupType.cs",
+              "ToolTip": "D:\\Project Unity\\Coffee Pack\\Assets\\Scripts\\CupType.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CupType.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwAcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T12:49:46.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LevelMakerEditor.cs",
+              "DocumentMoniker": "D:\\Project Unity\\Coffee Pack\\Assets\\Scripts\\LevelMakerEditor.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LevelMakerEditor.cs",
+              "ToolTip": "D:\\Project Unity\\Coffee Pack\\Assets\\Scripts\\LevelMakerEditor.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LevelMakerEditor.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAhwE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T05:37:27.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Box.cs",
+              "DocumentMoniker": "D:\\Project Unity\\Coffee Pack\\Assets\\Scripts\\Box.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Box.cs",
+              "ToolTip": "D:\\Project Unity\\Coffee Pack\\Assets\\Scripts\\Box.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Box.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T02:38:54.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Cup.cs",
+              "DocumentMoniker": "D:\\Project Unity\\Coffee Pack\\Assets\\Scripts\\Cup.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Cup.cs",
+              "ToolTip": "D:\\Project Unity\\Coffee Pack\\Assets\\Scripts\\Cup.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Cup.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T02:22:10.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GridItem.cs",
+              "DocumentMoniker": "D:\\Project Unity\\Coffee Pack\\Assets\\Scripts\\GridItem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GridItem.cs",
+              "ToolTip": "D:\\Project Unity\\Coffee Pack\\Assets\\Scripts\\GridItem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GridItem.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAwwCcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T05:39:27.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Node.cs",
+              "DocumentMoniker": "D:\\Project Unity\\Coffee Pack\\Assets\\Scripts\\Node.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Node.cs",
+              "ToolTip": "D:\\Project Unity\\Coffee Pack\\Assets\\Scripts\\Node.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Node.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAlwBMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T05:31:26.757Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
